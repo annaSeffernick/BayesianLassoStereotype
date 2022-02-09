@@ -4,4 +4,4 @@ High-dimensional variable selection for assessed ordinal outcomes using the Baye
 
 Code for a toy application is in BLASSO-ST_SampleCode.R.
 
-Data are available in the "BLASSO-ST_SmallData.RData" file
+Toy data are available in the "BLASSO-ST_SmallData.RData" file.
