@@ -1,0 +1,7 @@
+Bayesian Lasso Stereotype Model
+
+High-dimensional variable selection for assessed ordinal outcomes using the Bayesian Lasso stereotype model with variable inclusion indicators
+
+Code for a toy application is in BLASSO-ST_SampleCode.R. Users can run the R script by using commands in the "R CMD command" file.
+
+Data are available in the "BLASSO-ST_SmallData.RData" file
