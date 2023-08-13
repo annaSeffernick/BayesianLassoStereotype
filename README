@@ -1,6 +1,8 @@
-Bayesian Lasso Stereotype Model
+# Bayesian Lasso Stereotype Model
 
-High-dimensional variable selection for assessed ordinal outcomes using the Bayesian Lasso stereotype model with variable inclusion indicators
+High-dimensional variable selection for assessed ordinal outcomes using the Bayesian Lasso stereotype model with variable inclusion indicators.
+
+Methods paper available at https://doi.org/10.1093/bib/bbac414. 
 
 Code for a toy application is in BLASSO-ST_SampleCode.R.
 
